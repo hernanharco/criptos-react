@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import styled from '@emotion/styled'
-import Error from './error'
+import Error from './Error'
 import useSelectMonedas from '../hooks/useSelectMonedas'
 import { monedas } from '../data/moneda'
 
